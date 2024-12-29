@@ -28,6 +28,7 @@ JavaDoc/
 Source Codes/
 Assignment1.pdf
 Members.txt
+README.md
 ```
 
 ### Source Codes Directory
